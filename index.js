@@ -1,4 +1,3 @@
-require('dotenv').config();
 const { Client } = require('discord.js-selfbot-v13');
 const fs = require('fs');
 const path = require('path');
