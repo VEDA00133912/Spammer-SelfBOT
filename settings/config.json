@@ -1,0 +1,7 @@
+{
+    "prefix": "^",
+    "sendCount": "5",
+    "randomMention": true,
+    "randomString": true,
+    "randomEmoji": true
+}
