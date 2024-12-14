@@ -1,0 +1,10 @@
+{
+    "title": "投票のタイトル",
+    "choices": [
+      { "text": "選択肢1", "emoji": "🍎" },
+      { "text": "選択肢2", "emoji": "🍎" }
+    ],
+    "duration": 8,
+    "allowMultiselect": true,
+    "sendCount": 5
+  }  
